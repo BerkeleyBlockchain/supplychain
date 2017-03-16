@@ -1,0 +1,42 @@
+{	
+  "credentials": {
+    "peers": [
+      {
+        "discovery_host": "0.0.0.0",
+        "discovery_port": 7051,
+        "api_host": "0.0.0.0",
+        "api_port": 7050,
+        "type": "peer",
+        "network_id": "dev",
+       "id": "jdoe",
+        "api_url": "http://0.0.0.0:7050"
+      }
+    ],
+    "users": [
+      {
+        "username": "test_user0",
+        "secret": "MS9qrN8hFjlE",
+        "enrollId": "test_user0",
+        "enrollSecret": "MS9qrN8hFjlE"
+      },
+      {
+        "username": "test_user1",
+        "secret": "jGlNl6ImkuDo",
+        "enrollId": "test_user1",
+        "enrollSecret": "jGlNl6ImkuDo"
+      },
+      {
+        "username": "test_user2",
+        "secret": "zMflqOKezFiA",
+        "enrollId": "test_user2",
+        "enrollSecret": "zMflqOKezFiA"
+      },
+      {
+        "username": "test_user3",
+        "secret": "vWdLCE00vJy0",
+        "enrollId": "test_user3",
+        "enrollSecret": "vWdLCE00vJy0"
+      }
+    ]
+  }
+}
